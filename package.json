@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@rails/webpacker": "^3.0.2",
-    "aws-sdk": "^2.141.0",
+    "aws-sdk": "^2.814.0",
     "babel-preset-react": "^6.24.1",
     "coffeescript": "1.12.7",
     "create-torrent": "^3.29.2",
